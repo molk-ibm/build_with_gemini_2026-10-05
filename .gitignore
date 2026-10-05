@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+sa-key.json
+*.json.key
+/tmp/
+.cache/
+record_demo.py
